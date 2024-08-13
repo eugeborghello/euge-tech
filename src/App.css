@@ -1,40 +1,63 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #f4f4f4;
+  background-color: #f4f4f9;
   margin: 0;
   padding: 0;
+  color: #333;
 }
 
-.App-header {
-  background-color: #333;
-  color: white;
-  padding: 1rem;
+header {
+  background-color: #2C3E50;
+  color: #ECF0F1;
+  padding: 1rem 0;
   text-align: center;
 }
 
-.App-header nav a {
+nav {
+  display: flex;
+  justify-content: center;
+  background-color: #1ABC9C;
+  padding: 0.5rem;
+}
+
+nav a {
   color: white;
-  margin: 0 15px;
+  margin: 0 1rem;
   text-decoration: none;
 }
 
-section {
-  padding: 2rem;
+nav a:hover {
+  text-decoration: underline;
 }
 
-.contact-info, .portfolio {
-  background-color: white;
-  margin: 1rem 0;
-  padding: 1rem;
-  border-radius: 8px;
+.container {
+  padding: 2rem;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.bio, .projects, .contact {
+  margin-bottom: 3rem; /* Aumenta la separación entre secciones */
+}
+
+h2 {
+  color: #2C3E50;
+  background-color: #D3D3D3; /* Fondo gris */
+  padding: 0.5rem;
+  border-radius: 5px;
+}
+
+.project {
+  margin-bottom: 1.5rem; /* Aumenta la separación entre proyectos */
+}
+
+.project a {
+  color: #1ABC9C;
 }
 
 footer {
-  background-color: #333;
-  color: white;
+  background-color: #2C3E50;
+  color: #ECF0F1;
   text-align: center;
-  padding: 1rem;
-  position: fixed;
-  width: 100%;
-  bottom: 0;
+  padding: 1rem 0;
 }
