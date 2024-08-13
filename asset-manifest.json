@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/euge-tech/static/css/main.7c5dadb8.css",
-    "main.js": "/euge-tech/static/js/main.bdf293c2.js",
+    "main.css": "/euge-tech/static/css/main.60d40bf9.css",
+    "main.js": "/euge-tech/static/js/main.191e1886.js",
     "static/js/453.69121f00.chunk.js": "/euge-tech/static/js/453.69121f00.chunk.js",
     "index.html": "/euge-tech/index.html",
-    "main.7c5dadb8.css.map": "/euge-tech/static/css/main.7c5dadb8.css.map",
-    "main.bdf293c2.js.map": "/euge-tech/static/js/main.bdf293c2.js.map",
+    "main.60d40bf9.css.map": "/euge-tech/static/css/main.60d40bf9.css.map",
+    "main.191e1886.js.map": "/euge-tech/static/js/main.191e1886.js.map",
     "453.69121f00.chunk.js.map": "/euge-tech/static/js/453.69121f00.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c5dadb8.css",
-    "static/js/main.bdf293c2.js"
+    "static/css/main.60d40bf9.css",
+    "static/js/main.191e1886.js"
   ]
 }
